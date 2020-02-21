@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\w10\Documents\pruebaGit\formacionTribu\src\main\scala\Ejercicio2.scala:31:7: a pure expression does nothing in statement position; you may be omitting necessary parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m    5 + 4[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 1 deprecation warning(s); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
